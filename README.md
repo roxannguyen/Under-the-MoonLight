@@ -23,9 +23,9 @@ Due to security and privacy considerations, the code is not publicly available a
 Once the app is launched, users can log in, access the music player, write in their digital journal, or receive their tarot reading. Custom settings can be adjusted based on user preference.
 
 ## Future Features
-Integration with cloud storage for cross-device synchronization.
-More music options and playlists.
-Enhanced tarot functionality.
+- Integration with cloud storage for cross-device synchronization.
+- More music options and playlists.
+- Enhanced tarot functionality.
 
 <img width="533" alt="image" src="https://github.com/user-attachments/assets/6e64bc7c-7496-459c-a558-970c34e61a6a" />
 <img width="541" alt="image" src="https://github.com/user-attachments/assets/8f738bbb-ce0c-454b-be5a-f94c909fcfc0" />
