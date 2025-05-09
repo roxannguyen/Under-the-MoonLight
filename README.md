@@ -28,3 +28,6 @@ Integration with cloud storage for cross-device synchronization.
 More music options and playlists.
 
 Enhanced tarot functionality.
+<img width="559" alt="image" src="https://github.com/user-attachments/assets/f7924bbd-7234-40e4-b40c-e14902c1c204" />
+
+
