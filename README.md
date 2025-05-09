@@ -17,7 +17,7 @@
 - **Libraries**: tkinter, pygame, etc
 
 ## Current Status
-Due to security and privacy considerations, the code is not publicly available at this moment. However, I can provide basic system diagrams and other relevant documentation for review (https://drive.google.com/file/d/1fEL-49zdeseDyuz_SXfohlUAU_qQGb7T/view?usp=sharing). For more detailed information, please feel free to reach out via email at nhoangthientruc123@gmail.com.
+Due to security and privacy considerations, the code is not publicly available at this moment. However, I can provide basic system diagrams and other relevant documentation for review (https://drive.google.com/file/d/1fEL-49zdeseDyuz_SXfohlUAU_qQGb7T/view?usp=sharing). For more detailed information, please feel free to reach out via email at nhthientruc.work@gmail.com !
 
 ## Usage
 Once the app is launched, users can log in, access the music player, write in their digital journal, or receive their tarot reading. Custom settings can be adjusted based on user preference.
