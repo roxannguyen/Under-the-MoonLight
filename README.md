@@ -7,8 +7,8 @@
 ## Features
 
 - **Authentication**: Secure sign-in to personalize the user's experience.
-- **Diary**: Keep track of thoughts and emotions through a built-in journaling feature.
-- **Music**: Listen to calming music for relaxation or focus.
+- **Diary**: Keep track of thoughts and emotions through a built-in journaling feature which have cute emoji ^^
+- **Music**: Listen to calming music for relaxation or focus (especially, the music feature can recommend music based on diary which was noted)
 - **Cosmic Insights**: Receive daily tarot readings to guide the user’s day.
 - **Settings**: Customizable options to personalize the app experience.
 
