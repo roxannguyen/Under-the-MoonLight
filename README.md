@@ -3,7 +3,7 @@
 
 **Team size: 5**
 
-**Role: Business Analyst & Frontend Developer**
+**My Role: Business Analyst & Frontend Developer**
 
 ## Features
 
