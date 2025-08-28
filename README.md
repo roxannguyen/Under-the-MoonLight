@@ -1,6 +1,7 @@
-# Under-the-MoonLight #Team size: 5 #Role: Business Analyst, Frontend Developer
-
+# Under-the-MoonLight 
 **Under-the-MoonLight** is a self-care app developed in Python that combines music, journaling, and tarot features to help users relax, reflect, and gain cosmic insights. The app includes five main functionalities: authentication, diary, music player, cosmic insights, and settings. Data storage is implemented using JSON files, ensuring simplicity and eliminating the need for SQL or external databases. The application provides a peaceful and personal lifestyle experience, allowing users to manage their well-being through music, journaling, and tarot readings.
+**Team size: 5**
+**Role: Business Analyst & Frontend Developer
 
 ## Features
 
