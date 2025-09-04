@@ -20,8 +20,7 @@
 - **Libraries**: tkinter, pygame, etc
 
 ## Current Status
---**Code: https://github.com/noma-phuocthinh/UndertheMoonLight**
---**Diagram: https://drive.google.com/file/d/1fEL-49zdeseDyuz_SXfohlUAU_qQGb7T/view?usp=sharing**
+Code: https://github.com/noma-phuocthinh/UndertheMoonLight
 
 ## Usage
 Once the app is launched, users can log in, access the music player, write in their digital journal, or receive their tarot reading. Custom settings can be adjusted based on user preference.
